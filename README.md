@@ -86,4 +86,6 @@ VBoxManage modifyvm "reversing-win10" --recording off
 
  VBoxManage modifyvm "reversing-win10" --accelerate2dvideo on
 VBoxManage modifyvm "reversing-win10" --vram 256
-    
+    VBoxManage modifyvm "reversing-win10" --vrde off
+
+USE RDP
