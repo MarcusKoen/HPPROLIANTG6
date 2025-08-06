@@ -76,3 +76,8 @@ To improve performance even more:
     Disable indexing and background services.
 
     Enable Guest Additions for clipboard, mouse, display resize (optional).
+
+
+    Guest additions:
+download version from oracle, mount and install in windows os
+    
