@@ -80,4 +80,10 @@ To improve performance even more:
 
     Guest additions:
 download version from oracle, mount and install in windows os
+
+OPTIMIZATON
+VBoxManage modifyvm "reversing-win10" --recording off
+
+ VBoxManage modifyvm "reversing-win10" --accelerate2dvideo on
+VBoxManage modifyvm "reversing-win10" --vram 256
     
